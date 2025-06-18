@@ -22,8 +22,6 @@ Backup vom Server auf das lokale System übertragen:
 
 Da sich das Backup auf dem Server befindet, muss es mit scp auf das lokale System übertragen werden.
 
-Das lässt sich leicht mit dem Tool SCP realisieren.
-
 scp benutzername@serveradresse:/home/benutzername/server-backup/full-backup-2025-06-18_05-09-18.tar.gz C:/Users/dein-username/Desktop/
 
 
